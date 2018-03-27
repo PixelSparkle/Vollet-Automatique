@@ -1,2 +1,2 @@
 # Vollet-Automatique
-Projet SIN n°1
+Projet SIN plutôt bien foiré xD
